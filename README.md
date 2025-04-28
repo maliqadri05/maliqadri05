@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Qadri</h1>
 <h3 align="center">A passionate computer scientist from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="./animated coding">
+<img align="right" alt="coding" width="400" src="./animated coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdx-ali-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="rdx-ali-ansari" /> </p>
 
