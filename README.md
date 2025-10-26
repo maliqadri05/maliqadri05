@@ -1,6 +1,6 @@
 ![logo](./animated-coding.gif)
 <h1 align="center">Hi👋, I'm Muhammad Ali Qadri</h1>
-<h3 align="center">A Passionate Computer Scientist From Pakistan</h3>
+<h3 align="center">Final year CS student translating logic into innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maliqadri05&label=Profile%20views&color=0e75b6&style=flat" alt="maliqadri05" /> </p>
 
