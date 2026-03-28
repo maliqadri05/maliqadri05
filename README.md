@@ -88,7 +88,7 @@
 <div align="center">
 
 <img height="170em" style="margin-right: 10px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maliqadri05&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maliqadri05&layout=compact&theme=tokyonight" />
+<img height="170em" style="margin-right: 10px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maliqadri05&layout=compact&theme=tokyonight" />
 
 </div>
 
