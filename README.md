@@ -63,11 +63,8 @@
 </div>
 
 
-<h3 align="left">🔥My Stats :</h3>
-
-###
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=youtube-dark)](https://git.io/streak-stats)
-###
+<h3 align="left">My Stats:</h3>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maliqadri05&theme=youtube-dark)](https://git.io/streak-stats)
 
 <div align="center">
   <p><strong><em>Let's connect</em></strong></p>
